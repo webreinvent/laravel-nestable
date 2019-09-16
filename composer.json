@@ -2,6 +2,7 @@
     "name": "webreinvent/laravel-nestable",
     "type": "library",
     "description": "Laravel 6 nested categories library",
+    "version": "0.0.1",
     "homepage": "https://github.com/webreinvent",
     "keywords": ["nested","nestable","nestedset","category","laravel"],
     "license": "MIT",
@@ -39,6 +40,5 @@
                 "Nestable": "Nestable\\Facades\\NestableService"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
