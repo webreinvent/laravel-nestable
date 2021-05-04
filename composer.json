@@ -1,8 +1,8 @@
 {
     "name": "webreinvent/laravel-nestable",
     "type": "library",
-    "description": "Laravel 6 nested categories library",
-    "version": "0.0.1",
+    "description": "Laravel 8 nested categories library",
+    "version": "0.0.3",
     "homepage": "https://github.com/webreinvent",
     "keywords": ["nested","nestable","nestedset","category","laravel"],
     "license": "MIT",
@@ -15,10 +15,10 @@
         }
     ],
     "require": {
-        "php": ">=7.2"
+        "php": "^7.3|^8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.0|^5.0",
+        "phpunit/phpunit": "^9.3",
         "orchestra/testbench": "~3.0",
         "orchestra/database": "~3.1"
     },

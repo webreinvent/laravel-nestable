@@ -1,4 +1,4 @@
-Laravel 6 Nestable
+Laravel 8 Nestable
 ========
 
 ### Info:
